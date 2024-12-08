@@ -14,3 +14,9 @@ Profile: city you live in, general skill level (UTR, USTA), age, picture
 Techniques: Google maps API key
 Websites- Bubble io/Make.com/Rapid APIs
 
+
+
+What we need help on: 
+---Trying to figure out how to integrate google maps apis and the ui for it on XCode. 
+---The exact process of how the app is going to launch on the app store. 
+---Going more in depth with swift & swift ui coding languages. 
